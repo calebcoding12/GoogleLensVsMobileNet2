@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(123, 255, 0);
+}
+h1 {
+    font-family: 'Kanit', sans-serif;
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+}
+.div_style {
+background-color:rgb(34, 35, 39);
+border-radius: 20px;
+box-shadow: 5px 5px 5px white;
+color: rgb(255, 255, 255);
+font-size: 25px;
+border-style:ridge;
+}
+.mobilenet {
+text-align: center;
+}
+.copy_right_footer {
+    text-align: center;
+    position: initial;
+    color: cyan;
+    box-shadow: 1px 1px 38px black;
+    font-size: 30px;
+    background-color: rgba(17, 46, 207, 0.678);
+    font-family: 'Kanit', sans-serif;
+    
+}
+.conclusion{
+    background: rgb(77, 150, 179);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 38px black;
+    font-family: 'Kanit', sans-serif;
+}
